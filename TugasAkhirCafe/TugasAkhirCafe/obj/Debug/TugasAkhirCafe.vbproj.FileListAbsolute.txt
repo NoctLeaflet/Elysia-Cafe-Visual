@@ -1,0 +1,68 @@
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.exe.config
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.exe
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.pdb
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\MySqlConnector.dll
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Buffers.dll
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Memory.dll
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Numerics.Vectors.dll
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\MySqlConnector.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Buffers.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Memory.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Numerics.Vectors.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.AssemblyReference.cache
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Form1.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Resources.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.GenerateResource.cache
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.CoreCompileInputs.cache
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.CopyComplete
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.exe
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.xml
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.pdb
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Form2.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Add.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Report.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Modip.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Stock.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Transaksi.resources
+F:\POLINES\Kuliah part 2\Program Visual\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Ingfo.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.exe.config
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.exe
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.pdb
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\TugasAkhirCafe.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\MySqlConnector.dll
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Buffers.dll
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Memory.dll
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Numerics.Vectors.dll
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\MySqlConnector.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Buffers.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Memory.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Numerics.Vectors.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.AssemblyReference.cache
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Add.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Form1.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Form2.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Ingfo.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Modip.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Resources.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Report.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Stock.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.Transaksi.resources
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.GenerateResource.cache
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.CoreCompileInputs.cache
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.vbproj.CopyComplete
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.exe
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.xml
+E:\BackUp F\polines\cafe\TugasAkhirCafe\TugasAkhirCafe\obj\Debug\TugasAkhirCafe.pdb
